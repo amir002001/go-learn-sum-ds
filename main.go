@@ -3,5 +3,7 @@ package main
 func main() {
 	// TestLinearSearch()
 	// TestBinarySearch()
-	TestTwoCrystalBalls()
+	// TestTwoCrystalBalls()
+	// TestBubbleSort()
+	TestQueue()
 }
