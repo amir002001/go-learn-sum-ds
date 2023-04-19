@@ -5,5 +5,6 @@ func main() {
 	// TestBinarySearch()
 	// TestTwoCrystalBalls()
 	// TestBubbleSort()
-	TestQueue()
+	// TestQueue()
+	TestStack()
 }
